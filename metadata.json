@@ -1,0 +1,6 @@
+{
+  "name": "Altis Fitness Club",
+  "description": "Premium gym and fitness centre website for Altis Fitness Club in Kondhwa Budruk, Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
